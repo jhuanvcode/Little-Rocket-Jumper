@@ -1,6 +1,6 @@
-# 🚀 Little-Rocket-Jumper - A Batalha do Foguetinho Contra o Mega Pombo
+# 🚀 Little Rocket Jumper
 
-Um **jogo de plataforma e ação 2D** desenvolvido em **libGDX** onde você controla **Foguetinho**, um gari acrobata. Corra por uma cidade infinita, colete lixo, derrote inimigos e enfrente o **Mega Pombo** em uma batalha épica de 3 fases!
+**Little Rocket Jumper** é um jogo de plataforma e ação 2D desenvolvido em Java com libGDX, inspirado na rotina urbana de uma grande metrópole. O jogador controla **Foguetinho**, um **gari acrobata** que percorre as ruas de São Paulo coletando lixo, desviando de obstáculos e enfrentando animais urbanos como ratos e pombos para combater a poluição da cidade. O jogo aborda educação ambiental de forma divertida, incentivando a conscientização sobre limpeza urbana e preservação do meio ambiente.
 
 ## 📋 Visão Geral
 
