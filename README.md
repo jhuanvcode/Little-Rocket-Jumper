@@ -64,10 +64,11 @@ Um **jogo de plataforma e ação 2D** desenvolvido em **libGDX** onde você cont
 ```bash
 git clone https://github.com/jhuanvcode/Little-Rocket-Jumper.git
 cd Little-Rocket-Jumper
-./gradlew lwjgl3:run
-gradlew.bat lwjgl3:run
-./gradlew lwjgl3:jar
+```
 
+## 🎨 Estrutura do Projeto
+
+```
 Little-Rocket-Jumper/
 ├── core/                    # Lógica principal do jogo
 │   └── src/io/github/some_example_name/
@@ -108,7 +109,9 @@ Little-Rocket-Jumper/
 ├── gradlew.bat
 ├── settings.gradle
 └── README.md
-🎯 Sistema de Pontuação
+```
+## 🎯 Sistema de Pontuação
+
 Ação	Pontos
 Coletar lixo	+5
 Matar pombo/rato	+1
@@ -118,7 +121,8 @@ Acertar boss (soco)	+5 × (combo/3)
 Acertar boss (saco)	+10 × (combo/3)
 Derrotar boss	+500
 
-🚀 Comandos Gradle Úteis
+## 🚀 Comandos Gradle Úteis
+
 ./gradlew lwjgl3:run          # Executar o jogo
 ./gradlew lwjgl3:jar          # Gerar JAR executável
 ./gradlew clean               # Limpar arquivos de build
